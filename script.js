@@ -38,7 +38,7 @@
           else if (boyPlayed =="Paper" && girlPlayed == "Rock"){
             boyWins();
           }
-          else if (boyPlayed == "scissors" && girlPlayed == "Paper"){
+          else if (boyPlayed == "Scissors" && girlPlayed == "Paper"){
             boyWins();
           }
           else {
